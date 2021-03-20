@@ -1,0 +1,5 @@
+# Remove alguns arquivos para enviar para git
+
+/node_modules
+
+yarn.lock
